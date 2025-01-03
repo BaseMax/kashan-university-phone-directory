@@ -1,4 +1,4 @@
-# Kashan University Phone Directory Scraper
+# University of Kashan Phone Directory Scraper
 
 This repository contains a scraper and dataset for extracting and publishing the phone directory of employees and personnel from the University of Kashan. It includes tools to scrape, parse, and export data from an HTML file into JSON format.
 
