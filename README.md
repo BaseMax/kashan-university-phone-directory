@@ -9,15 +9,15 @@ This repository contains a scraper and dataset for extracting and publishing the
 - Modular and adaptable code for similar scraping tasks.
 
 ## Project Structure
-organization-phone-118
 
-│
-├── data/
+```
+organization-phone-118
+.
 ├── demo.html # Sample HTML data file.
 ├── extract.php # Script for extracting data from HTML.
 ├── output.json # Extracted data in JSON format.
-├── import.php # Placeholder for database import functionality.
 └── load.php # Configuration and utility script.
+```
 
 ## Prerequisites
 
