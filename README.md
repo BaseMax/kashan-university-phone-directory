@@ -32,18 +32,18 @@ organization-phone-118
    cd kashan-university-phone-directory
    ```
 
-Place the HTML file to be parsed in the data/ directory and name it demo.html.
+Place the HTML file to be parsed in the root directory and name it demo.html.
 
 Run the extraction script:
 
 ```bash
-php data/extract.php
+php extract.php
 ```
 
-View the output in data/output.json:
+View the output in `output.json`:
 
 ```bash
-cat data/output.json
+cat output.json
 ```
 
 ### Output Format
